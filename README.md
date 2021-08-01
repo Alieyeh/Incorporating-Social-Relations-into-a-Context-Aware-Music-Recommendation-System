@@ -6,8 +6,8 @@ Social relations greatly influence users’ musical preferences, so they are ben
 
 THE DIVISON OF TASKS:
 
-- Alieyeh: writing the laTeX file, coming up with ideas and the general algorithm.
-- Termeh: writing the code, coming up with ideas and the general algorithm.
+- Alieyeh: writing the laTeX file, research, coming up with ideas and the general algorithm.
+- Termeh: writing the code and comparing results, research, coming up with ideas and the general algorithm.
 - Natasha: writing the code, coming up with ideas.
 
 
